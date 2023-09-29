@@ -43,4 +43,6 @@ iwbdawbdiawbdibwdabaiwbdaiwbdiawba
 ```
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
+![Esto es una imagen del Conde y de José Mourinho](https://github.com/OscarLopez25032004/ASIX1M4UF1-A3Apuntes/blob/main/06%20(1).jpg "Titulo opcional de la imagen")
 
+![Esto es una imagen del Conde y de José Mourinho](https://github.com/OscarLopez25032004/ASIX1M4UF1-A3Apuntes/blob/main/image.png "Titulo opcional de la imagen")
