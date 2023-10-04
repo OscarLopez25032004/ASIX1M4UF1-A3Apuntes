@@ -53,3 +53,7 @@ iwbdawbdiawbdibwdabaiwbdaiwbdiawba
 |Col 3 es|Derecha| 135€|
 |Estilo cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+-[] Opción A
+-[X] Opción B
+-[] Opción C
