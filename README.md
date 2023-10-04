@@ -54,6 +54,6 @@ iwbdawbdiawbdibwdabaiwbdaiwbdiawba
 |Estilo cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
 
--[] Opción A
+-[ ] Opción A
 -[X] Opción B
--[] Opción C
+-[ ] Opción C
